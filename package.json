@@ -1,6 +1,6 @@
 {
   "name": "@webds/local_cbc_and_csat",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "description": "Local Cbc And Csat",
   "keywords": [
     "jupyter",
